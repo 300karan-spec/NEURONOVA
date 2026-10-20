@@ -1,0 +1,7 @@
+{
+  "versionCode": 5,
+  "versionName": "V2.7-20261020",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.7.0/neuronova.apk",
+  "changelog": "• 64-bit arm64-v8a native architecture support\n• Dark glass & glowing teal UI overhaul\n• Dynamic runtime QR code generation\n• Free in-app updater via GitHub Releases\n• Real-time color wheel & brightness tuning",
+  "force": false
+}

@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "V2.8.1-20261022",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.8.1/neuronova.apk",
-  "changelog": "â€¢ Automatic download on scanning QR code\nâ€¢ Automatic update notification system on startup & every 6 hours\nâ€¢ Vosk Indian English offline Voice AI with instant response\nâ€¢ Full voice command support for reverse, advance, spin\nâ€¢ Default Voice AI driving speed set to 50",
+  "versionCode": 8,
+  "versionName": "V2.8.2-20261022",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.8.2/neuronova.apk",
+  "changelog": "- Dark-glass sci-fi update dialog card background\n- High-speed direct streaming download in MB\n- Animated cybernetic download status\n- Auto-deletion of update installer APK after install\n- Instant Vosk offline Indian English Voice AI\n- Auto-download QR code directly to APK",
   "force": false
 }

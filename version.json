@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "V2.8-20261022",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.8.0/neuronova.apk",
-  "changelog": "â€¢ Vosk Indian English offline Voice AI with instant 1st-partial response\nâ€¢ Added reverse, advance, retreat, fall back, left spin, right spin voice commands\nâ€¢ Set default Voice AI driving speed to 50\nâ€¢ Fixed analysis results display\nâ€¢ Process-wide cached static model with zero native memory leak",
+  "versionCode": 7,
+  "versionName": "V2.8.1-20261022",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.8.1/neuronova.apk",
+  "changelog": "â€¢ Automatic download on scanning QR code\nâ€¢ Automatic update notification system on startup & every 6 hours\nâ€¢ Vosk Indian English offline Voice AI with instant response\nâ€¢ Full voice command support for reverse, advance, spin\nâ€¢ Default Voice AI driving speed set to 50",
   "force": false
 }

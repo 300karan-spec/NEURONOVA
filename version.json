@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "V2.9.1-20261024",
+  "versionCode": 9,
+  "versionName": "V2.9.0-20261024",
   "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.0/neuronova.apk",
   "changelog": "\u2022 Enhanced glass-style Hazard and Smoke Master controls\n\u2022 Next-generation cybernetic system update interface\n\u2022 Background streaming downloads with live speed tracking\n\u2022 Automatic package integrity & signature verification",
   "force": false

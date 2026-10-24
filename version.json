@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "V2.9.1-20261024",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.1/neuronova.apk",
-  "changelog": "\u2022 Glass-style Hazard Light (soft 700ms pulsing glow) and Smoke Master (bright teal cloud) controls\n\u2022 Next-generation cybernetic system update interface matching reference styling\n\u2022 Animated diagonal striped progress bar with real-time throughput metrics (MB and MB/s)\n\u2022 High-reliability background streaming downloads with ongoing status notifications\n\u2022 Automatic APK package integrity and cryptographic verification before installation",
+  "versionCode": 11,
+  "versionName": "V2.9.2-20261024",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.2/neuronova.apk",
+  "changelog": "• Target SDK raised to Android 14 (API 34) for full Google Play Protect compliance\n• Precise & Approximate Location permissions requested at app launch\n• Dynamic broadcast receivers updated with Android 14 export security flags\n• Modern Bluetooth & Voice AI runtime permissions on Android 12+\n• Glass-style Hazard and Smoke Master controls with real-time speed tracking",
   "force": false
 }

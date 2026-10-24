@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "V2.9.0-20261024",
+  "versionCode": 10,
+  "versionName": "V2.9.1-20261024",
   "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.0/neuronova.apk",
-  "changelog": "- Added Hazard Warning Light toggle (amber pulse)\n- Added Smoke Master toggle (default ON, glowing teal)\n- Dynamic Atomizer/Smoke follows vehicle speed in real time without stalling\n- Directional lighting system (Forward Green, Reverse Red, Amber turn indicators)\n- Automated Bluetooth state sync on connection and 2s background refresh",
+  "changelog": "\u2022 Enhanced glass-style Hazard and Smoke Master controls\n\u2022 Next-generation cybernetic system update interface\n\u2022 Background streaming downloads with live speed tracking\n\u2022 Automatic package integrity & signature verification",
   "force": false
 }

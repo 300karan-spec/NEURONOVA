@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "V2.8.2-20261022",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.8.2/neuronova.apk",
-  "changelog": "- Dark-glass sci-fi update dialog card background\n- High-speed direct streaming download in MB\n- Animated cybernetic download status\n- Auto-deletion of update installer APK after install\n- Instant Vosk offline Indian English Voice AI\n- Auto-download QR code directly to APK",
+  "versionCode": 9,
+  "versionName": "V2.9.0-20261024",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.0/neuronova.apk",
+  "changelog": "- Added Hazard Warning Light toggle (amber pulse)\n- Added Smoke Master toggle (default ON, glowing teal)\n- Dynamic Atomizer/Smoke follows vehicle speed in real time without stalling\n- Directional lighting system (Forward Green, Reverse Red, Amber turn indicators)\n- Automated Bluetooth state sync on connection and 2s background refresh",
   "force": false
 }

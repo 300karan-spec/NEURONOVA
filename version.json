@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "V2.9.3-20261024",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.3/neuronova.apk",
-  "changelog": "• Fixed Mode Switching toggle in Remote Control (switching between Joystick and D-Pad)\n• Target SDK raised to Android 14 (API 34) for full Google Play Protect compliance\n• Precise & Approximate Location permissions requested at app launch\n• Dynamic broadcast receivers updated with Android 14 export security flags\n• Modern Bluetooth & Voice AI runtime permissions on Android 12+\n• Glass-style Hazard and Smoke Master controls with real-time speed tracking",
-  "force": false
+  "versionCode": 13,
+  "versionName": "V2.9.4-20261025",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.4/neuronova.apk",
+  "changelog": "• Brand-new glowing cyber welcome screen on launch\n• Getting developer support is much easier now — connect 1-on-1 directly in-app from Help > Q&A\n• Added \"Send Report to Developer\" button in Debug Log for instant assistance\n• Bluetooth stability improvements & mode transitions\n• General performance optimizations and bug fixes",
+  "force": true
 }

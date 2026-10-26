@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "V2.9.5-20261026",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.5/neuronova.apk",
+  "versionCode": 15,
+  "versionName": "V2.9.6-20261026",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.6/neuronova.apk",
   "changelog": "\u2022 Getting developer support is much easier now \u2014 connect 1-on-1 directly in-app from Help > Q&A\n\u2022 Added \"Send Report to Developer\" button in Debug Log for instant assistance\n\u2022 General performance optimizations and bug fixes",
   "force": true
 }

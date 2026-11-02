@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "V3.1.0-20261102",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.1.0/neuronova.apk",
-  "changelog": "• Added remote SD card deletion & management via Telegram bot (@Neuronova_mediabot)\n• Send /delete_sd to instantly wipe SD card recordings\n• Send /status_sd to monitor SD card health and storage remotely\n• Added web portal SD purge buttons\n• Safe background recording auto-recovery",
+  "versionCode": 21,
+  "versionName": "V3.2.0-20261102",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.0/neuronova.apk",
+  "changelog": "• Added 1-Tap Wi-Fi & Mobile Hotspot Provisioning for ESP32-CAM\n• Direct HUD 📶 Wi-Fi button on camera control bar\n• Step-by-step Phone Hotspot auto-config & scan\n• Dual SoftAP + Station mode for continuous local & worldwide internet streaming\n• NVS Flash credential storage for instant auto-reconnect",
   "force": true
 }

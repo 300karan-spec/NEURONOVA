@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "V2.9.7-20261026",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.7/neuronova.apk",
-  "changelog": "\u2022 Getting developer support is much easier now \u2014 connect 1-on-1 directly in-app from Help > Q&A\n\u2022 Added \"Send Report to Developer\" button in Debug Log for instant assistance\n\u2022 General performance optimizations and bug fixes",
+  "versionCode": 17,
+  "versionName": "V2.9.8-20261102",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.8/neuronova.apk",
+  "changelog": "\u2022 Restored seamless BLE connectivity (targetSdk 29) without unnecessary permission prompts\n\u2022 Fixed Remote Control mode startup handshake (restored Bluetooth mode 0x00)\n\u2022 Restored Arduino speed indicator to vibrant blue LEDs\n\u2022 Butter-smooth mode transitions and debounced controls",
   "force": true
 }

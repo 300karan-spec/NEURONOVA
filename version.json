@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "V2.9.9-20261102",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v2.9.9/neuronova.apk",
-  "changelog": "\u2022 Fixed crash in RGB Lights when backspacing or clearing color text fields\n\u2022 Restored seamless BLE connectivity (targetSdk 29) without unnecessary permission prompts\n\u2022 Fixed Remote Control mode startup handshake (restored Bluetooth mode 0x00)\n\u2022 Restored Arduino speed indicator to vibrant blue LEDs\n\u2022 Butter-smooth mode transitions and debounced controls",
+  "versionCode": 19,
+  "versionName": "V3.0.0-20261102",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.0.0/neuronova.apk",
+  "changelog": "• Expanded Voice AI to 60+ natural commands across all directions, speeds, and spins\n• Fixed ignored voice commands: eliminated strict anchors so commands with noise or filler words trigger instantly\n• Cut voice command debounce from 700ms to 350ms for responsive re-triggering\n• Fixed RGB Lights crash when clearing input\n• Maintained smooth BLE connectivity on Android 15",
   "force": true
 }

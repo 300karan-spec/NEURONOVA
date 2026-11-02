@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "V3.2.0-20261102",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.0/neuronova.apk",
-  "changelog": "• Added 1-Tap Wi-Fi & Mobile Hotspot Provisioning for ESP32-CAM\n• Direct HUD 📶 Wi-Fi button on camera control bar\n• Step-by-step Phone Hotspot auto-config & scan\n• Dual SoftAP + Station mode for continuous local & worldwide internet streaming\n• NVS Flash credential storage for instant auto-reconnect",
+  "versionCode": 22,
+  "versionName": "V3.2.1-20261102",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.1/neuronova.apk",
+  "changelog": "\u2022 Fixed Obstacle Avoidance mode freeze: eliminated false obstacle lock and sensor traps\n\u2022 Replaced confusing Follow Me toggle with clear dynamic state indicators ([\ud83d\udee1\ufe0f OBSTACLE AVOIDANCE: ON] / [\ud83c\udfc3 FOLLOW ME: ON])\n\u2022 Added live sensor telemetry: real-time ultrasonic distance (cm) with radar wave animation & live IR obstacle indicators\n\u2022 Fixed servo brownout & auto-disconnect: rock-solid 50Hz PWM timing with low-power coil holding",
   "force": true
 }

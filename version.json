@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "V3.2.6-20261103",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.6/neuronova.apk",
-  "changelog": "\u2022 Zero-Lag Ultra-Smooth Camera Streaming: Decoupled socket reader and renderer with instant stale-frame dropping (<30ms latency)\n\u2022 High FPS & Zero GC Jitter: RGB_565 decoding with reusable inBitmap memory, eliminating stuttering\n\u2022 Smart AI Default: YOLOv8 AI defaults to OFF for maximum framerate, running async on toggle\n\u2022 ESP32 Auto-Tuning: Quality 12 compression, 19.5 dBm Wi-Fi power, and disabled modem sleep",
+  "versionCode": 28,
+  "versionName": "V3.2.7-20261103",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.7/neuronova.apk",
+  "changelog": "\u2022 Automatic Update on Launch: App automatically detects updates and presents the update dialog upon launch when Auto-Update is enabled in Settings\n\u2022 Fixed Connection Interrupted Error: Removed process Wi-Fi binding so updates download seamlessly over Cellular/Internet even while connected to robot camera\n\u2022 Resilient Downloader: Enhanced HTTP redirect resolution, timeout resiliency, and instant APK installation trigger upon download completion\n\u2022 Settings Auto-Update Sync: Default enabled with persistent switch state in Settings",
   "force": true
 }

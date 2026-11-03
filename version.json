@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "V3.2.1-20261102",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.1/neuronova.apk",
-  "changelog": "\u2022 Fixed Obstacle Avoidance mode freeze: eliminated false obstacle lock and sensor traps\n\u2022 Replaced confusing Follow Me toggle with clear dynamic state indicators ([\ud83d\udee1\ufe0f OBSTACLE AVOIDANCE: ON] / [\ud83c\udfc3 FOLLOW ME: ON])\n\u2022 Added live sensor telemetry: real-time ultrasonic distance (cm) with radar wave animation & live IR obstacle indicators\n\u2022 Fixed servo brownout & auto-disconnect: rock-solid 50Hz PWM timing with low-power coil holding",
+  "versionCode": 25,
+  "versionName": "V3.2.4-20261103",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.4/neuronova.apk",
+  "changelog": "\u2022 Real-time robot battery & 3S Li-ion voltage telemetry (Pin A5)\n\u2022 Fixed remote control servo sweep BLE disconnection (non-blocking 50Hz pulses)\n\u2022 Fixed robot moving backward continuously on button release (ACTION_CANCEL & dual stop dispatch)\n\u2022 Migrated IR avoidance right pin to digital Pin 8",
   "force": true
 }

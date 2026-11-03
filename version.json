@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "V3.2.4-20261103",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.4/neuronova.apk",
-  "changelog": "\u2022 Real-time robot battery & 3S Li-ion voltage telemetry (Pin A5)\n\u2022 Fixed remote control servo sweep BLE disconnection (non-blocking 50Hz pulses)\n\u2022 Fixed robot moving backward continuously on button release (ACTION_CANCEL & dual stop dispatch)\n\u2022 Migrated IR avoidance right pin to digital Pin 8",
+  "versionCode": 26,
+  "versionName": "V3.2.5-20261103",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.2.5/neuronova.apk",
+  "changelog": "\u2022 Removed Help [?] icon across all function screens\n\u2022 Fixed live robot battery telemetry in Remote Control and all function modes\n\u2022 Global BLE packet framing and real-time top-bar telemetry dispatch\n\u2022 100% official keystore signed release",
   "force": true
 }

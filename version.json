@@ -1,7 +1,7 @@
 {
-  "versionCode": 38,
-  "versionName": "V3.3.7-20261106",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.7/neuronova.apk",
-  "changelog": "\u2022 D-Pad Direction Fix: Corrected Up/Down for Forward/Backward and Left/Right for Steering\n\u2022 Firmware Motor Restoration: Restored original PWM logic, eliminating L298N noise at speed 50\n\u2022 BLE Throttle: 50ms rate-limiting preventing disconnects\n\u2022 Battery Telemetry: Clean brackets [12.2V]",
+  "versionCode": 39,
+  "versionName": "V3.3.8-20261106",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.8/neuronova.apk",
+  "changelog": "• Smooth D-Pad Steering: Differential drive steering with active inner wheel rotation floor (no L298N motor driver stall whine/buzzing)\n• Instant D-Pad Stop: Active motor braking when releasing D-pad or direction buttons\n• Firmware Performance: Removed blocking serial telemetry inside motor driver loops for lag-free response",
   "force": true
 }

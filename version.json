@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "V3.3.8-20261106",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.8/neuronova.apk",
-  "changelog": "• Smooth D-Pad Steering: Differential drive steering with active inner wheel rotation floor (no L298N motor driver stall whine/buzzing)\n• Instant D-Pad Stop: Active motor braking when releasing D-pad or direction buttons\n• Firmware Performance: Removed blocking serial telemetry inside motor driver loops for lag-free response",
+  "versionCode": 40,
+  "versionName": "V3.3.9-20261106",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.9/neuronova.apk",
+  "changelog": "\u2022 Restored Factory D-Pad Steering: Verbatim original motor drive and steering algorithms from Hummerbot factory firmware\n\u2022 Smooth Continuous Motion: Eliminated premature auto-cut on D-pad button release with safe 3-second watchdog\n\u2022 Gauge Speed Synchronization: Initialized speedometer gauge on startup to 50 and kept app speed setting synchronized without auto-reset",
   "force": true
 }

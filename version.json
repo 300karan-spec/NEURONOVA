@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "V3.3.9-20261106",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.9/neuronova.apk",
-  "changelog": "\u2022 Restored Factory D-Pad Steering: Verbatim original motor drive and steering algorithms from Hummerbot factory firmware\n\u2022 Smooth Continuous Motion: Eliminated premature auto-cut on D-pad button release with safe 3-second watchdog\n\u2022 Gauge Speed Synchronization: Initialized speedometer gauge on startup to 50 and kept app speed setting synchronized without auto-reset",
+  "versionCode": 41,
+  "versionName": "V3.3.10-20261107",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.10/neuronova.apk",
+  "changelog": "• Critical Fix: Resolved VerifyError crash on Android 15 when opening Remote Control screen\n• Restored Factory D-Pad Steering & Smooth Motion\n• Speedometer gauge synchronized to robot speed",
   "force": true
 }

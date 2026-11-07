@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "V3.3.10-20261107",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.10/neuronova.apk",
-  "changelog": "• Critical Fix: Resolved VerifyError crash on Android 15 when opening Remote Control screen\n• Restored Factory D-Pad Steering & Smooth Motion\n• Speedometer gauge synchronized to robot speed",
+  "versionCode": 42,
+  "versionName": "V3.3.11-20261107",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.11/neuronova.apk",
+  "changelog": "• Restored Factory D-Pad Controls: Verbatim single-direction triggers and instant stop on button release\n• Android 15 verification stability and factory motor timing\n• Clean camera and FPV integration",
   "force": true
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "V3.3.11-20261107",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.11/neuronova.apk",
-  "changelog": "• Restored Factory D-Pad Controls: Verbatim single-direction triggers and instant stop on button release\n• Android 15 verification stability and factory motor timing\n• Clean camera and FPV integration",
+  "versionCode": 44,
+  "versionName": "V3.3.12-20261109",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.12/neuronova.apk",
+  "changelog": "\u2022 Dark Teal Glass Sci-Fi Preview: Seamless full center column frame with corner brackets and zero letterbox bars\n\u2022 Floating Sci-Fi HUD Chips: Real-time 24 FPS \u00b7 Latency, CAM ON/OFF illuminated switch, and SPD telemetry\n\u2022 Dual Round Glass Action Controls: SNAP and pulsing red REC button\n\u2022 Translucent Glass Dock: Auto-hiding bottom toolbar for AI, FIT, FULL, IP, and SET with tap-to-reveal\n\u2022 Fixed splash logo: High-resolution Neuronova branding across all screen resolutions\n\u2022 Telegram Bot Storage Management: /storage diagnostics and /clear remote storage wipe",
   "force": true
 }

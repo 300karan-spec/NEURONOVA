@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "V3.3.12-20261109",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.12/neuronova.apk",
-  "changelog": "\u2022 Dark Teal Glass Sci-Fi Preview: Seamless full center column frame with corner brackets and zero letterbox bars\n\u2022 Floating Sci-Fi HUD Chips: Real-time 24 FPS \u00b7 Latency, CAM ON/OFF illuminated switch, and SPD telemetry\n\u2022 Dual Round Glass Action Controls: SNAP and pulsing red REC button\n\u2022 Translucent Glass Dock: Auto-hiding bottom toolbar for AI, FIT, FULL, IP, and SET with tap-to-reveal\n\u2022 Fixed splash logo: High-resolution Neuronova branding across all screen resolutions\n\u2022 Telegram Bot Storage Management: /storage diagnostics and /clear remote storage wipe",
+  "versionCode": 45,
+  "versionName": "V3.3.13-20261109",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.13/neuronova.apk",
+  "changelog": "\u2022 Restored Gravity Sensing Mode: Accelerometer tilt-to-drive toggle switch and sensor lifecycle at bottom of center column\n\u2022 Precision Centered Joystick & D-Pad: Dynamic view centering on release in all modes\n\u2022 Dark Teal Glass Sci-Fi Preview: Full center column viewport, removed duplicate CAM switch, clean corner bracket margins\n\u2022 Floating Sci-Fi HUD: Live 24 FPS \u00b7 11 ms telemetry, SPD chip, SNAP & pulsing red REC button\n\u2022 Translucent Glass Dock: Auto-hiding bottom toolbar for AI, FIT, FULL, IP, and SET with tap-to-reveal\n\u2022 Splash Screen Fix: High-resolution Neuronova branding across all device screens\n\u2022 ESP32 Telegram Storage & Diagnostics: /storage live diagnostics and /clear remote wipe",
   "force": true
 }

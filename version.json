@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "V3.3.14-20261109",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.14/neuronova.apk",
-  "changelog": "• Fixed Camera Preview Layout Overlap: Bottom toolbar dock positioned 9dp above corner brackets, REC & SNAP stacked cleanly above toolbar with zero overlap\n• Taller Preview Viewport: Frame expanded seamlessly from servo slider to gravity sensing switch\n• Single Stream Stability: Fixed ESP32 port 81 socket contention, eliminated reconnect loops and false NO SIGNAL flashes\n• Restored YOLOv8 AI Vision: Asynchronous inference telemetry, live AI ON chip indicator, and cyberpunk HUD overlays\n• Smart Wi-Fi Provisioning: Dynamic network discovery and scanning for home Wi-Fi station mode\n• Aspect Fill Default: Center-crop video eliminating dark side bars with instant FIT/FULL toggling",
+  "versionCode": 47,
+  "versionName": "V3.3.15-20261109",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.15/neuronova.apk",
+  "changelog": "\u2022 Crash-Proof Native Inference: Switched YOLOv8 to multi-threaded CPU XNNPACK to eliminate MediaTek Dimensity 7050 OpenCL driver crashes\n\u2022 Zero-Switch Home Wi-Fi Streaming: Direct streaming over home Wi-Fi (192.168.1.102:81) without switching to SoftAP\n\u2022 UI Rebrand & Polish: Renamed dialog to 'CONNECT NEURONOVA', removed yellow lightning/signal warning icons, reduced timeout to 1500ms\n\u2022 Multi-Client Stream Engine: High-performance non-blocking socket stream server on port 81 supporting multiple devices concurrently",
   "force": true
 }

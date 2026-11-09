@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "V3.3.15-20261109",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.15/neuronova.apk",
-  "changelog": "\u2022 Crash-Proof Native Inference: Switched YOLOv8 to multi-threaded CPU XNNPACK to eliminate MediaTek Dimensity 7050 OpenCL driver crashes\n\u2022 Zero-Switch Home Wi-Fi Streaming: Direct streaming over home Wi-Fi (192.168.1.102:81) without switching to SoftAP\n\u2022 UI Rebrand & Polish: Renamed dialog to 'CONNECT NEURONOVA', removed yellow lightning/signal warning icons, reduced timeout to 1500ms\n\u2022 Multi-Client Stream Engine: High-performance non-blocking socket stream server on port 81 supporting multiple devices concurrently",
+  "versionCode": 48,
+  "versionName": "V3.3.16-20261109",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.16/neuronova.apk",
+  "changelog": "\u2022 Zero-Lag Gravity Sensing: Eliminated 150ms UI thread blocking sleep and reduced sensor dispatch latency by 90% (SENSOR_DELAY_GAME 50Hz)\n\u2022 Instant Tilt Response: Tuned speed recalculation throttle from 200ms to 50ms and level stop brake latency from 400ms to 80ms\n\u2022 Crash-Proof Native Inference: Multi-threaded CPU XNNPACK (4 threads) for YOLOv8 eliminating Dimensity GPU driver crashes\n\u2022 Zero-Switch Home Wi-Fi Streaming: Multi-client MJPEG camera streaming directly on home Wi-Fi (port 81)",
   "force": true
 }

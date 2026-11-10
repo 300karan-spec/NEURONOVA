@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "V3.3.19-20261110",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.19/neuronova.apk",
-  "changelog": "• Camera Stream Parser Fix: Fixed corrupted MJPEG chunk slicing bug and split EOI frame boundary detection, ensuring 100% clean JPEG decoding without frame drops\n• Network Unblocking: Removed Wi-Fi callback pause lock so stream connects reliably across hotspots and APs\n• Safe Bitmap Recycling: Invalidate corrupted inBitmap handles automatically to prevent decode deadlocks\n• Smart IP Fallback: Auto-rotates between configured IP, 192.168.4.1 (Neuronova SoftAP), and esp32cam.local (mDNS)\n• Draw Line Speed: Default speed set to 50 for smooth trajectory execution",
+  "versionCode": 52,
+  "versionName": "V3.3.20-20261110",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.20/neuronova.apk",
+  "changelog": "\u2022 Gravity Sensing Freeze Fix: Eliminated blocking Thread.sleep() calls on UI thread during stop/reset packets\n\u2022 Speedometer Zero Deadzone: Fixed accelerometer noise baseline calculation that previously locked gauge at 21 when level\n\u2022 Throttled Sensor Dispatch: Sensor events optimized to UI delay rate (~60ms) and guarded animation restarts to ensure silky-smooth 60fps operation\n\u2022 Responsive Steering: Re-linked AlbumOrientationEventListener for seamless tilt and steering control",
   "force": true
 }

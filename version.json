@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "V3.3.18-20261110",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.18/neuronova.apk",
-  "changelog": "• Draw Line Mode Speed Fix: Updated default motor speed from 8 to 50, eliminating motor stall/stutter and providing sufficient torque for drawn trajectories\n• Dynamic Speed Sync: Instant synchronization of speed HUD label and dialog with robot speed controller\n• Camera Stream Stability: Bulletproof single-socket architecture with Wi-Fi process binding",
+  "versionCode": 51,
+  "versionName": "V3.3.19-20261110",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.19/neuronova.apk",
+  "changelog": "• Camera Stream Parser Fix: Fixed corrupted MJPEG chunk slicing bug and split EOI frame boundary detection, ensuring 100% clean JPEG decoding without frame drops\n• Network Unblocking: Removed Wi-Fi callback pause lock so stream connects reliably across hotspots and APs\n• Safe Bitmap Recycling: Invalidate corrupted inBitmap handles automatically to prevent decode deadlocks\n• Smart IP Fallback: Auto-rotates between configured IP, 192.168.4.1 (Neuronova SoftAP), and esp32cam.local (mDNS)\n• Draw Line Speed: Default speed set to 50 for smooth trajectory execution",
   "force": true
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "V3.3.17-20261110",
-  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.17/neuronova.apk",
-  "changelog": "• Bulletproof Camera Live Streaming: Single-socket strict enforcement, 4s frame timeout watchdog, and exponential backoff retry (1s, 2s, 4s, 5s)\n• Wi-Fi Process Binding: App network automatically bound to camera Wi-Fi to eliminate mobile data interference on Android 10+\n• Cyberpunk Reconnecting HUD: Smooth reconnecting status display without premature signal dropouts\n• Dynamic Camera IP Configuration: Edit and switch camera endpoints with instant presets (192.168.1.102, 192.168.4.1, esp32cam.local)\n• Leak-Free Lifecycle: Safe socket teardown and background thread shutdown on pause/exit",
+  "versionCode": 50,
+  "versionName": "V3.3.18-20261110",
+  "apkUrl": "https://github.com/300karan-spec/NEURONOVA/releases/download/v3.3.18/neuronova.apk",
+  "changelog": "• Draw Line Mode Speed Fix: Updated default motor speed from 8 to 50, eliminating motor stall/stutter and providing sufficient torque for drawn trajectories\n• Dynamic Speed Sync: Instant synchronization of speed HUD label and dialog with robot speed controller\n• Camera Stream Stability: Bulletproof single-socket architecture with Wi-Fi process binding",
   "force": true
 }

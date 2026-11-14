@@ -2,6 +2,6 @@
   "versionCode": 52,
   "versionName": "V1.0.1",
   "apkUrl": "https://github.com/300karan-spec/neuronovaaudiosync/releases/download/v1.0.1/Neuronova_AudioBackup_v1.0.1.apk",
-  "changelog": "• Clean version naming (V1.0.1)\n• High-throughput Parallel Upload Engine\n• Instant Network Reconnect auto-resume\n• Full Telegram remote management (/battery, /storage, /device, /find, /getfile, /pause, /resume, /setparallel)\n• Safe auto-delete after verified 100% Telegram upload\n• Send EVERYTHING from selected folders",
+  "changelog": "• Caller Contact Name Lookup (real contact names in Telegram)\n• Call Direction Detection (Incoming 📥 / Outgoing 📤 / Missed 🚫)\n• Interactive Telegram Inline Buttons (1-tap status, sync, battery, update)\n• One-click OTA Update checking in-app & via Telegram (/update)\n• Seamless 24/7 background upload engine with auto-resume",
   "force": false
 }

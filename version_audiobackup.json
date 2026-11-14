@@ -1,0 +1,7 @@
+{
+  "versionCode": 52,
+  "versionName": "V1.0.1",
+  "apkUrl": "https://github.com/300karan-spec/neuronovaaudiosync/releases/download/v1.0.1/Neuronova_AudioBackup_v1.0.1.apk",
+  "changelog": "• Clean version naming (V1.0.1)\n• High-throughput Parallel Upload Engine\n• Instant Network Reconnect auto-resume\n• Full Telegram remote management (/battery, /storage, /device, /find, /getfile, /pause, /resume, /setparallel)\n• Safe auto-delete after verified 100% Telegram upload\n• Send EVERYTHING from selected folders",
+  "force": false
+}

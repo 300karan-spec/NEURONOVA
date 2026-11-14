@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "V1.0.1-AudioBackup",
+  "versionCode": 52,
+  "versionName": "V1.0.1",
   "apkUrl": "https://github.com/300karan-spec/neuronovaaudiosync/releases/download/v1.0.1/Neuronova_AudioBackup_v1.0.1.apk",
-  "changelog": "â€¢ VIP Call Recording Fast-Track Priority\nâ€¢ 100x Faster scanning with zero disk freeze\nâ€¢ Native Telegram player duration & caller ID waveform\nâ€¢ HTTP 429 auto-backoff & 50MB split protection\nâ€¢ In-app 24/7 battery whitelist (no ADB needed)\nâ€¢ New remote bot commands: /recent, /calls_only, /retry",
+  "changelog": "â€¢ Clean version naming (removed -AudioBackup)\nâ€¢ Multi-threaded Parallel Upload Engine (4x faster)\nâ€¢ Send EVERYTHING from user-selected folders (any file format)\nâ€¢ VIP Call Recording priority & 24/7 background sync",
   "force": false
 }
